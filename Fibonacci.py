@@ -20,7 +20,7 @@ def FibonacciTerm(n):
         
     return nextTerm
 
-print("Get the nth term of the Fibonacci series")
+print("Get the nth term of the Fibonacci series.")
 
 while True:
     print()
