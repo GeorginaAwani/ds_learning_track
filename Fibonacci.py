@@ -1,4 +1,7 @@
 """
+This may not be related to data science, but was assigned as a warm-up for coding
+in Python. Tbh, it's my first actual work in Python.
+
 The Fibonaaci series is a sequence of positive integers where the following number
 is the sum of the previous two numbers in the sequence.
 """
